@@ -1,0 +1,14 @@
+body{
+
+background-image: url(image/reserve3.png);
+background-size:cover;
+
+
+
+}
+.card-panel{
+max-width:35%;
+  margin-top:1px;
+ margin-left:65%;
+
+}
